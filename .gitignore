@@ -37,3 +37,5 @@ below1300/*.o
 
 # Test
 test.cpp
+input.txt
+output.txt
